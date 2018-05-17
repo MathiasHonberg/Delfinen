@@ -1,0 +1,5 @@
+Tobias Kurland 22 31707117 true true 1600
+Mathias Hønberg 23 53888494 true true 1600
+Frederik Adser 12 22220404 true true 1000
+Rebekka Kurland 25 49140517 true true 1600
+Kenneth Kurland 60 51515151 true false 1200
